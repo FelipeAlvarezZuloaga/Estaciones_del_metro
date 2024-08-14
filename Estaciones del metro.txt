@@ -4,4 +4,4 @@ Universidad	VERDE
 Pantitlán	CAFE
 Bellas Artes	AZUL
 Auditorio	NARANJA
-Zapata
+Zapata		DORADA
