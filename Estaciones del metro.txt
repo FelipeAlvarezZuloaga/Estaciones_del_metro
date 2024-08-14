@@ -6,3 +6,4 @@ Bellas Artes	AZUL
 Auditorio	NARANJA
 Zapata		DORADA
 Atlalilco	VERDE
+General Anaya	AZUL
