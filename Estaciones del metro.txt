@@ -1,7 +1,7 @@
-Taxqueña
-Buenavista
-Universidad
-Pantitlán
-Bellas Artes
-Auditorio
+Taxqueña	AZUL
+Buenavista	VERDE
+Universidad	VERDE
+Pantitlán	CAFE
+Bellas Artes	AZUL
+Auditorio	NARANJA
 Zapata
